@@ -1,7 +1,7 @@
 # Community-Cross-Instruct
 This repo is the implementation of our [paper](https://aclanthology.org/2024.emnlp-main.945/) "Community-Cross-Instruct: Unsupervised Instruction Generation for Aligning Large Language Models to Online Communities". We introduce Community-Cross-Instruct, an unsupervised framework that leverages instruction-tuning with advanced LLMs to create and evaluate digital twins of online communities.
 
-<img src="imgs/framework.png" width="600">
+<img src="imgs/framework.png" width="800">
 Illustration of our framework using a toy example, where there are two subreddits r/Liberal and r/Conservative, and we focus on the topic gun control.
 
 ## Datasets: CommInst and CommSurvey
