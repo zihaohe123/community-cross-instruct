@@ -1,0 +1,10 @@
+domain=politics
+python -u 01_model_topics.py --domain=$domain
+python -u 02_display_topics.py --domain=$domain
+python -u 03_split_chunks.py --domain=$domain --min_n_subreddits=4
+
+
+# domain=fitness
+# python -u 01_model_topics.py --domain=$domain
+# python -u 02_display_topics.py --domain=$domain
+# python -u 03_split_chunks.py --domain=$domain --min_n_subreddits=2

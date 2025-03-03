@@ -1,0 +1,1213 @@
+text_chunk_id,topic_id,question,answer_Anarcho_Capitalism,answer_Liberal,answer_NeutralPolitics,answer_Conservative,answer_AskThe_Donald,question_id,split,split_by_topic
+0,6,"What is one commonly mentioned argument against gun-free zones?
+A. They lead to increased government surveillance.
+B. They make people more vulnerable to criminals.
+C. They are supported by Republicans.
+D. They have been proven to lower crime rates.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,B,B,B,0,train,test
+0,6,"Which measure do users from these subreddits most commonly support to address school shootings?
+A. More gun control laws
+B. Arming teachers and increasing school security
+C. Mental health interventions
+D. Stricter penalties for illegal gun possession
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,A,C,B,B,1,train,test
+1,8,"What is the main reason for the increase in people identifying as transgender today?
+A. More societal acceptance
+B. Media influence
+C. Biological factors
+D. Political agendas
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,A,D,D,2,train,train
+1,8,"How should society address the issue of transgender athletes in sports?
+A. Allow them to compete according to their gender identity
+B. Create separate categories for transgender athletes
+C. Require them to compete according to their biological sex
+D. Ban transgender athletes from competitive sports
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,B,C,C,3,train,train
+2,7,"Why was Trump’s campaign accused of collusion with Russia?
+A. Secret meetings with Russian officials
+B. Use of Russian disinformation in the campaign
+C. Interference in the 2020 election
+D. Pardon of Flynn
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,A,B,B,4,train,train
+2,7,"What is the key reason some believe Trump should not be impeached again after leaving office?
+A. It sets a dangerous precedent
+B. Lack of sufficient evidence
+C. Political motivations
+D. Fear of retaliation
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,A,C,C,5,train,train
+3,23,"What do members of your subreddit think about the moderation style in other political subreddits?
+A. Too strict and biased
+B. Fair and balanced
+C. Ineffective and lenient
+D. Unknown
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,A,A,A,6,train,train
+3,23,"How do members of your subreddit view the term ""echo chamber""?
+A. As a necessary evil
+B. As something to avoid
+C. As a positive thing
+D. As a misunderstood concept
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,B,A,A,7,train,train
+4,4,"According to the comments, what is the main reason some users believe the US should not get involved in Ukraine?
+A. It's Europe's problem.
+B. Fear of nuclear escalation.
+C. Financial burden.
+D. Corruption in Ukraine.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,B,A,C,8,train,test
+4,4,"What justification do some users give for Russia's annexation of Crimea?
+A. Historical ties to Russia.
+B. Ukrainian government's corruption.
+C. Prevent NATO expansion.
+D. Ethnic Russian majority in Crimea.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,C,A,A,C,9,train,test
+5,14,"What is a commonly suggested alternative to taking on large student loans for college?
+A. Community college
+B. Trade school
+C. Scholarships and grants
+D. All of the above
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,D,D,D,D,10,train,train
+5,14,"Which of the following is a suggested solution to making higher education more affordable?
+A. Government regulation of tuition costs
+B. Increased access to private loans
+C. Reducing government involvement in student loans
+D. Encouraging more students to attend Ivy League schools
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,A,A,C,C,11,train,train
+6,12,"What is a significant reason mentioned for the continued existence of black markets despite legalization?
+A. Insufficient demand for legal products
+B. High taxation on legal marijuana
+C. Limited legal supply
+D. Public distrust of legal products
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,B,B,12,train,train
+6,12,"According to your perspective, what is the key concern regarding marijuana use among youth?
+A. Increased addiction rates
+B. Gateway to harder drugs
+C. Mental health deterioration
+D. Loss of productivity
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,C,C,B,A,13,train,train
+7,5,"Which platform do members think has the worst censorship issues?
+A. Twitter
+B. Facebook
+C. Google
+D. All of the above
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,A,D,D,D,14,train,train
+7,5,"What is the general consensus on alternative social media platforms like Parler or Gab?
+A. They are effective alternatives to mainstream platforms.
+B. They are echo chambers with limited influence.
+C. They are necessary but poorly managed.
+D. They will eventually become mainstream.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,C,A,A,15,train,train
+8,1,"Which energy source is considered cheapest according to recent studies?
+A. Coal
+B. Nuclear
+C. Solar
+D. Natural Gas
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,C,C,B,B,16,test,train
+8,1,"What is the general consensus on the impact of electric vehicles (EVs)?
+A. They are too expensive and inefficient.
+B. They significantly reduce carbon emissions.
+C. They rely heavily on coal and gas for electricity.
+D. They will lead to energy grid overload.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,B,C,A,D,17,test,train
+9,9,"How do different groups perceive the involvement of Trump in the January 6th events?
+A. He incited the violence directly.
+B. His rhetoric contributed to the atmosphere but didn’t incite violence directly.
+C. He had no role; it was spontaneous.
+D. It was a false flag operation.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,B,C,D,18,train,train
+9,9,"What is the primary reason given by some for the difference in police response between BLM protests and the Capitol attack?
+A. Racial bias and systemic racism.
+B. Different levels of threat perceived.
+C. Different locations require different strategies.
+D. Political bias and media framing.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,A,B,D,D,19,train,train
+10,21,"Who do members of r/Conservative blame for the chaos during the Afghanistan withdrawal?
+A. Obama
+B. Biden
+C. Trump
+D. The Taliban
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,B,B,20,train,train
+10,21,"What was one major reason given for the failure of the Afghan military to hold against the Taliban?
+A. Lack of support from the U.S.
+B. Poor training and leadership
+C. Overwhelming force from the Taliban
+D. Economic hardship
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,B,B,B,21,train,train
+11,21,"According to members, what was a significant flaw in Biden's withdrawal plan?
+A. Lack of a contingency plan
+B. Ignoring military advice
+C. Failing to secure airports
+D. Leaving behind military equipment
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,A,D,D,22,train,train
+11,21,"How do members feel about the original decision to invade Afghanistan?
+A. Justified, but poorly executed
+B. Completely unjustified
+C. Necessary for US security
+D. A strategic mistake
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,A,A,C,C,23,train,train
+12,4,"Who do the commenters primarily blame for the conflict between Ukraine and Russia?
+A. Ukraine
+B. Russia
+C. NATO
+D. The United States
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,B,C,24,train,test
+12,4,"Which leader do the commenters see as most responsible for the escalation of the conflict?
+A. Vladimir Putin
+B. Volodymyr Zelensky
+C. Joe Biden
+D. NATO Secretary General
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,A,A,A,25,train,test
+13,3,"According to the comments, what is a major concern for those opposing late-term abortions?
+A. Financial burden on the healthcare system
+B. Ethical concerns regarding viability and personhood
+C. Potential increase in unsafe abortions
+D. Lack of proper sex education
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,B,B,26,train,train
+13,3,"Which argument is often used by pro-choice supporters to counter the claim that abortion is murder?
+A. Fetus viability criteria
+B. Women's right to bodily autonomy
+C. Economic impact on unwanted pregnancies
+D. Historical context of abortion laws
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,A,B,27,train,train
+14,7,"What was a key reason Mueller did not indict Trump, according to comments from the subreddits?
+A. Lack of clear evidence of collusion
+B. DOJ policy against indicting a sitting president
+C. Insufficient resources for the investigation
+D. Fear of political backlash
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,A,A,28,train,train
+14,7,"How do different subreddits perceive the legitimacy of the FBI's raid on Trump's residence?
+A. The raid was justified due to serious legal concerns.
+B. The raid was a politically motivated attack.
+C. The raid was unnecessary but understandable.
+D. The raid was a standard legal procedure.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,D,B,B,29,train,train
+15,3,"What is the most important aspect of the abortion debate?
+A. Women's autonomy
+B. Fetal rights
+C. State vs. Federal jurisdiction
+D. Medical safety
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,C,B,B,30,train,train
+15,3,"How should society address unwanted pregnancies?
+A. Increase access to birth control and sex education
+B. Promote adoption as an alternative
+C. Strengthen abortion laws
+D. Leave it to individual discretion
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,A,A,B,B,31,train,train
+16,7,"Why do some believe the FBI raid on Trump's residence was justified?
+A. To retrieve classified documents
+B. To find evidence of collusion
+C. As a political move
+D. To intimidate Trump supporters
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,A,C,C,32,train,train
+16,7,"What is the main argument against the credibility of those defending Trump under oath?
+A. They were pressured to lie
+B. They have a history of dishonesty
+C. The investigations are politically biased
+D. They weren't under oath
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,C,C,33,train,train
+17,26,"How should the government address tax loopholes used by the wealthy?
+A. Increase audits and enforcement
+B. Simplify the tax code and eliminate loopholes
+C. Maintain current practices
+D. Increase taxes across all brackets
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,B,B,B,34,train,train
+17,26,"What is the best way to achieve a fair tax system?
+A. Implement a flat tax rate for everyone
+B. Introduce higher taxes on the wealthy
+C. Provide more tax credits and deductions for the middle class
+D. Lower taxes for all income brackets
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,C,D,D,35,train,train
+18,10,"Which of the following best describes the role of religion in the US government according to members of r/NeutralPolitics?
+A. The US is a Christian nation.
+B. The US is a secular nation with a Christian-majority.
+C. The US government promotes Christianity.
+D. The US government is neutral between all religions.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,B,B,36,train,train
+18,10,"According to r/Conservative, what is a significant threat to Western values?
+A. Atheism.
+B. Islam.
+C. Secularism.
+D. Liberalism.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,B,B,37,train,train
+19,3,"When does a fetus gain significant moral and legal consideration according to your subreddit?
+A. At conception
+B. When it starts showing human traits
+C. When it becomes viable outside the womb
+D. At birth
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,C,C,A,A,38,train,train
+19,3,"What is the stance on abortions in cases of rape from your subreddit?
+A. Always unacceptable
+B. Acceptable only if the mother’s life is at risk
+C. Acceptable in the first trimester
+D. Acceptable in all cases
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,D,C,C,C,39,train,train
+20,1,"What is a significant barrier to electric car adoption mentioned in the comments?
+A. High cost
+B. Infrastructure
+C. Battery life
+D. Government regulations
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,B,B,40,train,train
+20,1,"Which factor do users blame most for high gas prices?
+A. Supply chain issues
+B. Corporate greed
+C. Government policies
+D. Global demand
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,C,C,C,41,train,train
+21,18,"Which news outlet do members of r/Conservative believe is most egregiously biased?
+A. NPR
+B. CNN
+C. Fox News
+D. Associated Press
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,B,B,42,test,train
+21,18,"According to r/AskThe_Donald, what is the best way to verify the accuracy of news?
+A. Trust mainstream media
+B. Compare multiple sources
+C. Follow government announcements
+D. Assume the opposite of MSM
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,B,D,43,test,train
+22,6,"Which of the following is commonly cited as a reason for opposing gun confiscation efforts?
+A. It is seen as constitutionally valid.
+B. It is believed to effectively reduce crime.
+C. It leads to increased government control.
+D. It supports law enforcement efforts.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,B,C,C,C,44,train,test
+22,6,"What is a frequent argument made by gun rights advocates about the role of the Second Amendment?
+A. It is primarily for hunting and recreational use.
+B. It is outdated and needs revision.
+C. It protects against government tyranny.
+D. It should be interpreted as narrowly as possible.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,B,C,C,C,45,train,test
+23,26,"What solution is most favored by your subreddit to address perceived unfairness in the tax system?
+A. Implement a flat tax
+B. Increase taxes on the wealthy
+C. Simplify the tax code
+D. Reduce overall tax rates
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,C,D,D,46,train,train
+23,26,"According to your subreddit, what is the best way to handle tax loopholes?
+A. Close them immediately to ensure fairness
+B. Reform the tax system to reduce loopholes
+C. Use them to lower overall tax liability
+D. Leave them as they are, they incentivize investment
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,A,B,B,C,47,train,train
+24,1,"Which energy source is viewed as the most viable solution to carbon emissions?
+A. Nuclear power
+B. Solar power
+C. Wind power
+D. Natural gas
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,A,A,A,48,train,train
+24,1,"Which policy is believed to most impact gasoline prices?
+A. Increasing oil drilling
+B. Subsidizing EVs
+C. Imposing carbon taxes
+D. Restricting oil imports
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,C,A,A,A,49,train,train
+25,7,"What do members of your subreddit believe happened with the documents Trump allegedly took from the White House?
+A. The documents were planted by the FBI.
+B. Trump took them accidentally.
+C. Trump intentionally withheld them.
+D. The documents were legally declassified.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,C,C,D,D,50,train,train
+25,7,"How do members of your subreddit interpret the Mueller report's findings on Trump?
+A. It exonerated Trump completely.
+B. It showed evidence of obstruction but no collusion.
+C. It found evidence of both obstruction and collusion.
+D. It was inconclusive and politically motivated.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,C,B,A,A,51,train,train
+26,6,"Which of the following do you believe is the most effective gun control measure?
+A. Universal background checks
+B. Banning semi-automatic weapons
+C. Mandatory gun safety training
+D. Stricter enforcement of existing laws
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,A,A,D,D,52,train,test
+26,6,"What is your opinion on the Second Amendment's relevance today?
+A. It needs to be updated to reflect modern firearms
+B. It is outdated and should be repealed
+C. It is still relevant and should be upheld as is
+D. It should be expanded to ensure no restrictions
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,A,C,C,D,53,train,test
+27,2,"Who do you believe is most responsible for alleged election fraud in 2020?
+A. Democrats
+B. Republicans
+C. Foreign entities
+D. There's no substantial evidence of fraud
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,D,D,A,A,54,train,train
+27,2,"What should be done with ballots that arrive after the deadline?
+A. Count them if postmarked by Election Day
+B. Count them regardless of postmark
+C. Discard them
+D. Extend deadlines nationally
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,A,A,C,C,55,train,train
+28,9,"What was the immediate cause of the Capitol riot according to most subreddit members?
+A. Stolen election narrative
+B. Police brutality
+C. CIA involvement
+D. Autonomy declarations
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,A,A,A,56,test,train
+28,9,"Which group do members of your subreddit believe was responsible for most of the violence during the 2020 protests?
+A. Right-wing agitators posing as BLM
+B. BLM protesters
+C. Antifa members
+D. Police forces
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,B,B,B,C,57,test,train
+29,18,"Which news source is mentioned as having a heavy editorial bias by r/Anarcho_Capitalism?
+A. NPR
+B. The Economist
+C. CNN
+D. Fox News
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,C,C,C,C,58,train,train
+29,18,"According to r/Liberal, what is a major issue with current journalism?
+A. Lack of funding
+B. Left-wing bias
+C. Advertising dominance
+D. Government censorship
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,C,C,B,B,59,train,train
+30,5,"What is a common concern regarding the regulation of social media platforms?
+A. The influence of government on platform policies
+B. The financial instability of these companies
+C. The role of social media in spreading sports news
+D. The ability of platforms to innovate
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,A,A,A,60,train,train
+30,5,"How do members view Elon Musk's handling of free speech on Twitter?
+A. Positively, seeing it as a step toward more open discourse
+B. Negatively, believing it will lead to more misinformation
+C. With skepticism, waiting to see actual changes
+D. Indifferently, seeing no significant impact
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,B,C,A,A,61,train,train
+31,8,"Should schools inform parents about changes in their child's gender identity?
+A. Yes, always.
+B. Only if the child consents.
+C. Only if it's legally required.
+D. No, never.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,C,A,A,62,train,train
+31,8,"Do you believe that non-binary genders should be legally recognized?
+A. Yes, absolutely.
+B. Yes, but with certain limitations.
+C. No, it's too complicated.
+D. No, there are only two genders.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,A,B,D,D,63,train,train
+32,0,"What do members in your subreddit think about the role of pharmaceutical companies in the vaccine rollout?
+A. Trustworthy and essential
+B. Driven by profit and questionable
+C. Adequate but could improve
+D. Manipulative and untrustworthy
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,C,B,D,64,train,train
+32,0,"According to your subreddit, what has been the effect of COVID-19 on the healthcare system?
+A. Improved focus on public health
+B. Strained and overburdened
+C. Exposed existing flaws
+D. Politicized and mismanaged
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,B,C,D,D,65,train,train
+33,31,"Which historical precedent is often cited regarding the Supreme Court's power to declare laws unconstitutional?
+A. Roe v. Wade
+B. Marbury v. Madison
+C. Brown v. Board of Education
+D. Citizens United v. FEC
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,B,B,66,test,test
+33,31,"What is a common argument against the idea of term limits for Supreme Court justices?
+A. It undermines judicial independence.
+B. It allows for too much political interference.
+C. It goes against the historical structure of the court.
+D. It would require a constitutional amendment.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,D,A,C,67,test,test
+34,4,"Who do members of your subreddit believe bears the most responsibility for the collapse of the Minsk agreements?
+A. Russia
+B. Ukraine
+C. NATO
+D. The EU
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,A,B,B,68,train,test
+34,4,"What is the general opinion of your subreddit on the effectiveness of sanctions against Russia?
+A. Highly effective
+B. Moderately effective
+C. Barely effective
+D. Ineffective
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,B,C,D,69,train,test
+35,5,"What is a common reason given for people leaving Facebook?
+A. Privacy concerns
+B. Political bias
+C. Platform's toxicity
+D. Family disagreements
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,C,B,B,B,70,train,train
+35,5,"How do members think social media platforms should handle contentious political content?
+A. Ban it outright
+B. Allow all content
+C. Moderate based on community guidelines
+D. Use government regulations
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,C,C,B,B,71,train,train
+36,5,"What was a significant consequence of Twitter banning Trump’s account?
+A. It led to a widespread debate about free speech on social media.
+B. It had no major impact on Twitter's user base.
+C. It resulted in an immediate mass exodus from Twitter.
+D. It improved Twitter's moderation policies.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,A,A,A,72,train,train
+36,5,"How do you feel about alternative social media platforms like Parler and Gab?
+A. They are necessary for free speech.
+B. They are echo chambers with little impact.
+C. They are dangerous and promote extremism.
+D. They are irrelevant and will fail.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,C,B,A,A,73,train,train
+37,2,"What is a solution proposed by members in your subreddit to prevent incomplete ballots from being submitted?
+A. Implementing digital voting systems.
+B. Using thumbprint verification.
+C. Ensuring mail-in ballots are double-checked.
+D. Require personal identification for all ballots.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,D,C,B,D,74,train,train
+37,2,"According to members in your subreddit, which party is most often accused of committing voter fraud?
+A. Democrats
+B. Republicans
+C. Both equally
+D. Neither
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,D,B,C,C,75,train,train
+38,6,"What is your stance on requiring universal background checks for all gun purchases?
+A. Strongly support
+B. Support with reservations
+C. Oppose
+D. Strongly oppose
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,A,B,C,C,76,train,test
+38,6,"Which firearm do you believe is most suitable for home defense?
+A. Handgun
+B. Shotgun
+C. AR-15
+D. None of the above
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,A,B,C,C,77,train,test
+39,24,"Which of the following is a primary factor contributing to high healthcare costs in the US?
+A. Government regulations
+B. Insurance company profits
+C. High uninsured rates
+D. Administrative overhead
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,C,A,B,78,test,test
+39,24,"What would be the most likely outcome if the US adopted a single-payer healthcare system?
+A. Improved healthcare quality
+B. Decreased healthcare access
+C. Reduced healthcare costs
+D. Increased government inefficiency
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,A,C,D,D,79,test,test
+40,17,"Which subreddit emphasizes the economic inefficiency of immigration restrictions?
+A. r/Anarcho_Capitalism
+B. r/Liberal
+C. r/NeutralPolitics
+D. r/Conservative
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,C,D,D,80,train,test
+40,17,"Which subreddit most strongly supports private property rights in the context of border control?
+A. r/Anarcho_Capitalism
+B. r/Liberal
+C. r/NeutralPolitics
+D. r/Conservative
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,C,D,A,81,train,test
+41,17,"Which approach is suggested by some subreddit members to better handle border security without a wall?
+A. Increased electronic surveillance and patrols
+B. Legalizing all immigrants
+C. Economic sanctions on Mexico
+D. Ignoring border security
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,A,A,A,82,train,test
+41,17,"What is one reason mentioned for why people are against open borders?
+A. Economic burden
+B. Cultural diversity
+C. Political correctness
+D. Environmental concerns
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,A,A,A,83,train,test
+42,12,"What is a common criticism of the current enforcement of marijuana laws?
+A. It is a form of extortion by the government.
+B. It disproportionately impacts low-income people.
+C. It helps reduce drug-related crimes effectively.
+D. It is necessary to maintain public health.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,B,B,B,84,train,train
+42,12,"What is one reason some people prefer purchasing marijuana from licensed dispensaries rather than the black market?
+A. To avoid the risk of being robbed.
+B. To support local communities.
+C. Because it’s cheaper.
+D. For the variety of options available.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,A,A,A,85,train,train
+43,32,"When someone starts name-calling in an argument, what is your typical reaction?
+A. Ignore them and keep arguing your point.
+B. Insult them back to show you're not intimidated.
+C. Point out their lack of maturity and move on.
+D. Try to steer the conversation back to the topic.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,D,D,A,C,86,train,train
+43,32,"What is the best approach to take when someone derails a discussion with irrelevant points?
+A. Ignore their irrelevant points and repeat your original argument.
+B. Address their points briefly and then return to your original argument.
+C. Call them out for derailing and demand they stick to the topic.
+D. Leave the discussion if they refuse to stay on topic.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,B,A,D,C,87,train,train
+44,4,"Which factor is most often cited as a reason for Russia's invasion of Ukraine?  
+A. NATO expansion  
+B. Ukraine's natural resources  
+C. Historical ties to Crimea  
+D. Western propaganda  
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,D,B,B,88,test,test
+44,4,"How do commenters typically view the role of media in the Ukraine conflict?  
+A. Fair and balanced reporting  
+B. Propaganda and misinformation  
+C. Biased but informative  
+D. Neutral and factual  
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,A,C,D,B,89,test,test
+45,2,"Who typically has harder access to voter IDs?
+A. Wealthy communities
+B. Minority communities
+C. Suburban communities
+D. Elderly communities
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,B,B,90,train,train
+45,2,"What is a suggested solution to ensure election integrity according to r/Conservative?
+A. Eliminate mail-in ballots
+B. Increase the number of voting machines
+C. Make Election Day a holiday
+D. Implement electronic absentee ballots
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,C,C,A,A,91,train,train
+46,7,"Who is believed to have weaponized the FBI, according to the comments?
+A. Trump
+B. The Clintons
+C. Mueller
+D. The FBI itself
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,A,B,C,D,92,train,train
+46,7,"What is the general sentiment regarding Hillary Clinton’s email server scandal?
+A. It was overblown and inconsequential.
+B. It was a significant security breach deserving investigation.
+C. It was a distraction from more important issues.
+D. It was fabricated to undermine her.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,C,B,C,D,93,train,train
+47,31,"What is a common criticism mentioned about the Supreme Court's decisions?
+A. They are too lenient.
+B. They are unconstitutional.
+C. They are too slow.
+D. They are too strict.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,B,B,94,train,test
+47,31,"What factor is often mentioned as undermining the Supreme Court’s credibility?
+A. Media influence
+B. Partisan decisions
+C. Public opinion
+D. Foreign interference
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,B,B,B,95,train,test
+48,24,"What do members of your subreddit believe is the main driver of high healthcare costs in the US?
+A. Government regulations
+B. Insurance companies
+C. High administrative costs
+D. Pharmaceutical companies
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,C,B,D,B,96,train,test
+48,24,"Do members of your subreddit support implementing universal healthcare in the US?
+A. Yes, unconditionally
+B. Yes, but with significant reforms
+C. No, prefer private solutions
+D. No, it would be too costly and inefficient
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,B,A,C,97,train,test
+49,3,"In what cases do you think abortion should be allowed?
+A. Never
+B. Only in cases of rape, incest, or danger to the mother's life
+C. In the first trimester for any reason
+D. At any point for any reason
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,D,A,B,C,98,train,train
+49,3,"Do you think overturning Roe v. Wade will lead to more unsafe abortions?
+A. Yes, absolutely
+B. Yes, but not significantly
+C. No, alternatives will be found
+D. No, it will reduce the number of abortions overall
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,B,B,D,99,train,train
+50,2,"According to your subreddit, what was the main reason for the belief in significant election fraud in the 2020 election?
+A. Irregularities in ballot counting
+B. Influence of mainstream media
+C. Statements from political leaders
+D. Lack of substantial audits
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,C,A,A,A,100,train,train
+50,2,"In your subreddit’s opinion, what is the primary solution to ensure election integrity?
+A. Implementing stricter voter ID laws
+B. Eliminating mail-in voting
+C. Increasing the number of audits
+D. Automatic voter registration
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,D,A,A,A,101,train,train
+51,6,"Which group is most often blamed for instigating gun control laws?
+A. The government
+B. Liberals
+C. Media
+D. Criminals
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,B,B,B,102,test,test
+51,6,"What is one suggested method to reduce mass shootings?
+A. Banning all guns
+B. Universal background checks
+C. Focusing on mental health
+D. Stricter law enforcement
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,B,C,C,C,103,test,test
+52,20,"What do you think about DeSantis' policies on free speech in schools?
+A. They promote necessary protection for children.
+B. They are a form of censorship and control.
+C. They are a mixed bag, some good, some bad.
+D. They are too authoritarian and overreaching.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,,A,A,104,test,train
+52,20,"Which scenario do you think would be best for the Republican party in 2024?
+A. Trump running for president with DeSantis as VP.
+B. DeSantis running for president with Trump’s endorsement.
+C. Trump running alone, with DeSantis continuing as a governor.
+D. Neither running, introducing a new candidate.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,D,,B,A,105,test,train
+53,38,"What is one reason cited for why socialism is seen as a failure in Venezuela?
+A. Economic sanctions
+B. Political corruption
+C. Poor healthcare
+D. Lack of education
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,,B,B,B,106,test,train
+53,38,"Why do some believe the US should not intervene in foreign countries' affairs, including Venezuela?
+A. Historical failures of intervention
+B. Focus should be on domestic issues first
+C. Risk of economic repercussions
+D. Moral obligation to respect sovereignty
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,,A,B,B,107,test,train
+54,24,"What is a common reason for supporting private healthcare over public systems?
+A. Lower costs
+B. Better quality
+C. More choices
+D. Government inefficiency
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,,B,B,D,108,train,test
+54,24,"How do wait times for medical procedures in the U.S. compare to other countries?
+A. Shorter in the U.S.
+B. Longer in the U.S.
+C. About the same
+D. Depends on insurance
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,D,D,A,109,train,test
+55,11,"What is a repeated sentiment about the female politician's intelligence and qualifications?
+A. She is highly intelligent and qualified.
+B. She is not very smart and lacks qualifications.
+C. She is intelligent but lacks political experience.
+D. Her qualifications are often underestimated.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,,B,B,110,train,train
+55,11,"How do various communities view the politician’s actions regarding controversial issues?
+A. They think she handles controversial issues well and with integrity.
+B. They believe she avoids controversial issues to maintain a good image.
+C. They accuse her of lying and acting in bad faith.
+D. They support her approach to controversial issues regardless of the outcome.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,B,,C,C,111,train,train
+56,28,"What is your stance on the idea of systemic racism in the U.S.?
+A. It is a real issue that needs addressing.
+B. It is exaggerated and used for political manipulation.
+C. It exists but is often misunderstood.
+D. It is a complete myth.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,,B,D,112,train,train
+56,28,"How do you feel about teaching Critical Race Theory (CRT) in schools?
+A. It is essential for understanding and addressing racism.
+B. It indoctrinates children with divisive ideas.
+C. It should be taught but with a balanced perspective.
+D. It should be banned entirely.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,,D,D,113,train,train
+57,25,"Which characteristic best describes Biden's current presidency?
+A. Effective
+B. Ineffective
+C. Moderate
+D. Radical
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,B,,B,C,114,train,train
+57,25,"How do you perceive Biden's relationship with the media?
+A. Fair and unbiased
+B. Biased in favor of Biden
+C. Biased against Biden
+D. Mixed
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,B,,C,D,115,train,train
+58,10,"Which religion is often described as having militant elements that are incompatible with Western values?
+A. Christianity
+B. Judaism
+C. Islam
+D. Hinduism
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,C,,C,C,116,train,train
+58,10,"What is the primary reason many people argue for the separation of church and state?
+A. To preserve religious traditions
+B. To protect scientific progress
+C. To limit government corruption
+D. To promote religious diversity
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,,A,B,117,train,train
+59,14,"According to your community, who is to blame for the student loan crisis?
+A. The students who took out loans.
+B. The government for backing loans.
+C. Colleges for raising tuition.
+D. Private banks.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,,C,C,B,118,test,train
+59,14,"What solution does your community primarily support for reducing the cost of college education?
+A. Government subsidies and grants.
+B. Reducing interest rates on student loans.
+C. Increasing private sector involvement.
+D. Eliminating government-backed loans.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,,B,D,D,119,test,train
+60,17,"What is the perceived effectiveness of the wall in stopping illegal immigration?
+A. Highly effective
+B. Moderately effective
+C. Ineffective
+D. Counterproductive
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,,B,A,A,120,train,test
+60,17,"Should the U.S. government provide social programs to illegal immigrants?
+A. Yes, without restrictions
+B. Yes, with limitations
+C. No, not at all
+D. Only in emergencies
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,,B,C,C,121,train,test
+61,42,"How do members of different subreddits view the flying of altered American flags with symbols like ""MAGA"" or ""Trump 2021""?
+A. It’s a sign of political narcissism and loss of original meaning.
+B. It’s a way to express support for their chosen candidate.
+C. It’s disrespectful to the original meaning of the flag.
+D. It’s a legitimate form of free speech expressing political views.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,,B,D,122,train,test
+61,42,"What is the general sentiment about the Confederate flag in the subreddits?
+A. A symbol of rebellion and individual liberty.
+B. A racist and divisive symbol that should be retired.
+C. A historical symbol of regional pride.
+D. A representation of states' rights and anti-big government sentiment.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,,C,D,123,train,test
+62,38,"Why do some people believe that Cuba's high literacy rates are misleading?
+A. The government inflates the numbers.
+B. Literacy is achieved by excluding those who can't read.
+C. Literacy rates are due to external aid.
+D. The data doesn't account for the quality of education.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,B,A,A,124,train,train
+62,38,"What is the main reason for Venezuela's hyperinflation according to your subreddit?
+A. US sanctions
+B. Corruption within the government
+C. Dependence on oil exports
+D. Socialist policies and mismanagement
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,,B,D,D,125,train,train
+63,0,"Which demographic is often mentioned as being most at risk from COVID-19?
+A. Children
+B. Elderly
+C. Young adults
+D. Middle-aged
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,,B,B,126,test,train
+63,0,"What is a common concern about the COVID-19 vaccine mentioned across the comments?
+A. Lack of efficacy
+B. Long-term safety data
+C. Cost of the vaccine
+D. Availability of vaccines
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,,B,B,127,test,train
+64,0,"How do different subreddits perceive the relationship between COVID-19 vaccines and side effects?
+A. Vaccines cause serious side effects and are unsafe.
+B. Vaccines have minimal side effects and are generally safe.
+C. Side effects exist but are outweighed by benefits.
+D. Side effects are often exaggerated and not a major concern.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,C,,C,A,128,train,train
+64,0,"What is the stance on the legitimacy of COVID-19 data and statistics?
+A. Data is mostly accurate and reliable.
+B. Data is manipulated to serve political agendas.
+C. Data is mixed; some reliable, some questionable.
+D. Data is fabricated and purely propaganda.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,,C,D,129,train,train
+65,26,"What is the general stance on the necessity of taxes for government functioning?
+A. Taxes should be completely eliminated.
+B. Taxes are necessary but should be lower.
+C. Taxes are necessary and should be optimized.
+D. Taxes should be increased for the wealthy.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,C,B,B,130,train,train
+65,26,"Which tax system is considered most fair among the users of the subreddits?
+A. Flat tax system where everyone pays the same rate.
+B. Progressive tax system where higher earners pay more.
+C. Wealth tax targeting billionaires and high net worth individuals.
+D. No taxes, using alternative funding mechanisms.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,,B,A,A,131,train,train
+66,22,"What is a commonly cited reason for Californians moving to Texas?
+A. Better weather
+B. Lower taxes
+C. More job opportunities
+D. Less crime
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,,B,B,132,train,train
+66,22,"Which city is noted for having a mix of liberal and conservative influences?
+A. Boulder, Colorado
+B. Nashville, Tennessee
+C. Austin, Texas
+D. San Francisco, California
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,,B,B,133,train,train
+67,79,"What would be the main reason for China to target Taiwan?
+A. Strategic military positioning
+B. Economic control over semiconductors
+C. Reunification claims
+D. Show of power
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,,C,A,B,134,train,train
+67,79,"How would other countries likely respond to a Chinese invasion of Taiwan?
+A. Military intervention
+B. Economic sanctions
+C. Diplomatic condemnation
+D. Ignoring the situation
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,,B,A,A,135,train,train
+68,104,"How do you think UBI would impact inflation?
+A. UBI would cause significant inflation due to increased consumer spending.
+B. Inflation would be minimal as long as the economy grows proportionally.
+C. Inflation is not a major concern; the real issue is how to fund UBI.
+D. UBI would not cause inflation if implemented correctly.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,B,A,A,136,train,train
+68,104,"What is the feasibility of implementing UBI according to your subreddit?
+A. Highly feasible if it replaces all existing welfare programs.
+B. Feasible but requires careful planning and adjustments.
+C. Not feasible due to economic and social drawbacks.
+D. Feasible only in specific regions with strong revenue sources.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,,B,C,D,137,train,train
+69,21,"According to some comments, what was a significant flaw of the Afghan National Army (ANA)?
+A. Lack of modern weaponry.
+B. Low morale and corruption.
+C. Insufficient international support.
+D. Poor training by the US military.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,,B,B,B,138,train,train
+69,21,"What was a reason given for why the US should have offered asylum to Afghan women?
+A. To promote gender equality globally.
+B. To compensate for the US invasion.
+C. Similar to offering asylum to Cubans fleeing communism.
+D. As a humanitarian gesture.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,,D,D,D,139,train,train
+70,84,"According to members from these subreddits, who is responsible for the attacks on oil tankers?
+A. Iran
+B. Saudi Arabia
+C. Israel
+D. The U.S.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,A,A,A,140,train,train
+70,84,"What is the general stance on whether the U.S. should go to war with Iran?
+A. Yes, immediately
+B. No, it's unnecessary
+C. Only if Iran provokes further
+D. Private sector should handle it
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,,B,C,C,141,train,train
+71,30,"According to members of r/AskThe_Donald, what is the main role of police?
+A. Protecting and serving citizens
+B. Enforcing unjust laws for the state
+C. Maintaining societal order
+D. Enforcing constitutional rights
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,,C,B,142,test,train
+71,30,"What do members of r/Anarcho_Capitalism think about the idea of private policing?
+A. It would be more accountable and efficient
+B. It would lead to further corruption
+C. It is not a viable solution
+D. It should be combined with public oversight
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,,C,A,143,test,train
+72,2,"What actions do members of r/Anarcho_Capitalism suggest to improve the election process?
+A. Use modern technology for vote tabulation
+B. Implement stricter voter ID laws
+C. Increase mail-in voting
+D. Rely solely on hand-counted ballots
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,,B,B,144,train,train
+72,2,"How do members of r/AskThe_Donald view audits and their outcomes?
+A. Trust the audits completely
+B. Believe audits are biased and unreliable
+C. Think audits are necessary but often manipulated
+D. Consider audits a waste of time
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,B,,C,B,145,train,train
+73,42,"What do people in your community think the Confederate flag primarily represents?
+A. Rebellion
+B. Southern heritage
+C. Racism
+D. States' rights 
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,C,,B,D,146,train,test
+73,42,"Should people be allowed to display the Confederate flag on their private property?
+A. Yes, absolutely.
+B. Yes, but with restrictions.
+C. No, it should be banned.
+D. No, it’s too offensive.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,C,,A,A,147,train,test
+74,25,"Do you believe Biden is in control of his presidency?
+A. Yes, completely.
+B. Somewhat, with assistance.
+C. Barely, mostly controlled by others.
+D. Not at all, he's a puppet.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,B,,D,D,148,train,train
+74,25,"How do you perceive Biden's handling of policy issues?
+A. Very effective.
+B. Moderately effective.
+C. Ineffective but better than Trump.
+D. Completely ineffective.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,B,,D,D,149,train,train
+75,28,"Which statement best reflects the view on the existence of systemic racism in America?
+A. Systemic racism is a proven reality affecting minorities disproportionately.
+B. Systemic racism is a tool used by the left to push their agenda.
+C. Systemic racism existed but is now vastly overstated.
+D. Systemic racism is a myth; individual actions matter more.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,,C,D,150,train,train
+75,28,"What is a common criticism of how race-related issues are handled in media and politics?
+A. Media and politics use race issues to distract from more pressing economic problems.
+B. Media and politics fail to address race issues adequately, perpetuating inequality.
+C. Media and politics exaggerate race issues to create division and maintain power.
+D. Media and politics handle race issues fairly and provide necessary coverage.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,,C,C,151,train,train
+76,9,"According to r/Liberal, what percentage of BLM protests turned violent?
+A. 7%
+B. 20%
+C. 50%
+D. 93%
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,A,,D,D,152,train,train
+76,9,"Who does r/AskThe_Donald believe was responsible for the violence at the Capitol on January 6th?
+A. Trump supporters
+B. Antifa disguised as Trump supporters
+C. Capitol police
+D. Foreign agents
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,,B,B,153,train,train
+77,26,"What is your stance on a flat tax rate for everyone?
+A. It’s the fairest system.
+B. It’s not fair as it disproportionately affects lower-income earners.
+C. It could work if combined with high consumption taxes.
+D. It’s better than the current complex system but needs more study.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,B,D,A,154,train,train
+77,26,"Should capital gains be taxed at the same rate as regular income?
+A. Yes, to ensure fairness.
+B. No, it discourages investment.
+C. Maybe, but only for very high earners.
+D. Only if it replaces another form of tax.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,,A,B,B,155,train,train
+78,20,"Who do you think is the better candidate for president in 2024, Trump or DeSantis?
+A. Trump
+B. DeSantis
+C. Neither
+D. Both are equally good
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,C,,B,B,156,train,train
+78,20,"What impact do you believe DeSantis would have on the GOP if he runs for president?
+A. He’ll strengthen the party.
+B. He’ll divide the party.
+C. He won’t make much difference.
+D. He’ll weaken the party.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,,A,A,157,train,train
+79,31,"According to members, who is responsible for appointing Supreme Court justices?
+A. The President and the Senate
+B. The House of Representatives
+C. The Judicial Committee
+D. State Governors
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,,A,A,158,train,test
+79,31,"What is a proposed solution to the current issues in the Supreme Court according to the comments?
+A. Expanding the number of justices
+B. Impeaching current justices
+C. Making justices follow a code of ethics
+D. Banning lifetime appointments
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,A,,C,D,159,train,test
+80,51,"What is the primary reason for rising rental costs according to members of these subreddits?
+A. Increased demand and limited supply
+B. Landlord greed
+C. Government regulations and zoning laws
+D. Economic inflation
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,,A,C,C,160,train,train
+80,51,"Who is most responsible for the housing crisis according to the comments?
+A. Landlords and property owners
+B. Government and its regulations
+C. Economic market forces
+D. Renters not paying rent
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,,B,B,B,161,train,train
+81,17,"Which of the following is seen as a better alternative to a border wall by some members?
+A. Increased legal immigration
+B. Strict enforcement of existing laws
+C. More technology and manpower at the border
+D. Total ban on immigration
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,A,B,C,162,train,test
+81,17,"What is a commonly cited consequence of illegal immigration according to some subreddit members?
+A. Increased crime rates
+B. Economic benefits
+C. Cultural enrichment
+D. None of the above
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,D,A,A,163,train,test
+82,105,"What reason has Trump given for not releasing his tax returns?
+A. He is under audit.
+B. He wants to maintain privacy.
+C. He claims they are irrelevant.
+D. He is waiting for Congress to act.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",,A,A,A,A,164,train,train
+82,105,"Who has the authority to request Trump's tax returns according to the law?
+A. Any member of Congress
+B. The Secretary of the Treasury
+C. The Chairman of the Committee on Ways and Means
+D. The President
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",,C,C,C,C,165,train,train
+83,37,"What is the perceived main reason for the mainstream media's focus on China's human rights violations?
+A. Genuine humanitarian concern
+B. Political maneuvering to justify future conflicts
+C. Economic competition
+D. Social media influence
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,,A,B,B,166,train,train
+83,37,"What do users believe is the best way to handle China's political and military ambitions?
+A. Diplomatic negotiations
+B. Economic sanctions
+C. Military intervention
+D. Ignoring and focusing on domestic issues
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,,A,B,B,167,train,train
+84,41,"What is a common reason given for why some people join the military?
+A. To serve their country
+B. For educational benefits
+C. Due to lack of other job opportunities
+D. To experience combat
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,,A,A,168,train,train
+84,41,"How do different subreddits view the concept of military wokeness?
+A. Necessary for inclusion
+B. A distraction from real issues
+C. Undermining military effectiveness
+D. A propaganda tool
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,,C,C,169,train,train
+85,14,"What is a potential negative consequence of student loan forgiveness?
+A. Increased college tuition prices
+B. Reduced access to higher education
+C. Higher unemployment rates
+D. Lower graduation rates
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,A,A,A,170,train,train
+85,14,"Which degree is considered to have better earning potential according to the comments?
+A. Fine Arts
+B. Social Sciences
+C. STEM (Science, Technology, Engineering, Mathematics)
+D. Humanities
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,,C,C,C,171,train,train
+86,17,"What is the primary reason people support building a border wall?
+A. National security
+B. Economic benefits
+C. Cultural preservation
+D. Environmental protection
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,A,A,A,172,train,test
+86,17,"Who should be primarily responsible for handling immigration issues?
+A. Federal government
+B. State governments
+C. Local communities
+D. Private property owners
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,,A,A,A,173,train,test
+87,0,"What is the general sentiment in your community regarding the role of the media in the COVID-19 pandemic?
+A. Media is a tool for government propaganda and fear-mongering.
+B. Media is mostly reliable but occasionally sensationalist.
+C. Media plays a crucial role in disseminating accurate information.
+D. Media often exaggerates but has some useful coverage.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,C,,D,A,174,train,train
+87,0,"How do members of your subreddit interpret the statistics on COVID-19 deaths and infections?
+A. They believe the numbers are exaggerated or manipulated.
+B. They trust the numbers but think more context is needed.
+C. They consider the statistics reliable and accurate.
+D. They are skeptical but somewhat believe the statistics.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,C,,B,A,175,train,train
+88,13,"What is a common concern about socialism discussed in your subreddit?
+A. It leads to economic inefficiency and coercion
+B. It improves social equity but faces practical challenges
+C. It has consistently failed in historical attempts
+D. It restricts freedom and hinders economic growth
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,B,C,D,176,train,train
+88,13,"According to members of your subreddit, what role should government play in addressing economic issues?
+A. Minimal to none, to allow market self-regulation
+B. Moderate intervention to correct market failures
+C. Active intervention to ensure equity and fairness
+D. Strict regulatory oversight to prevent monopolies
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,B,D,A,177,train,train
+89,57,"Which of these amendments is most frequently cited in discussions about state versus federal power?
+A. 1st Amendment
+B. 2nd Amendment
+C. 10th Amendment
+D. 14th Amendment
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,,C,C,C,178,test,train
+89,57,"How do members suggest dealing with states wanting to leave the union?
+A. Allow them to secede peacefully
+B. Force them to stay through federal intervention
+C. Negotiate new terms for remaining in the union
+D. Ignore their demands
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,C,A,A,179,test,train
+90,24,"Which country is often cited as a positive example of a single-payer healthcare system?
+A. United States
+B. Canada
+C. Denmark
+D. Japan
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",D,,B,B,B,180,train,test
+90,24,"What is a major consequence of having a government-regulated healthcare system?
+A. Increased innovation
+B. Higher taxes
+C. Reduced corruption
+D. Improved efficiency
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,,B,B,B,181,train,test
+91,46,"How do users feel about the idea of abolishing one of the major political parties?
+A. It's essential to dismantle the current corrupt system.
+B. It's impractical and would lead to one-party dominance.
+C. It’s an emotional reaction that lacks a clear plan.
+D. It would force a necessary realignment and create space for new parties.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,C,,B,D,182,train,train
+91,46,"What is the perceived reason behind the current dissatisfaction with both major political parties?
+A. Both parties prioritize the interests of the elite over the public.
+B. The Republican party has moved too far to the right.
+C. The Democratic party has moved too far to the left.
+D. Both parties fail to represent their base and make meaningful changes.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,C,,B,D,183,train,train
+92,34,"Why do some people criticize the U.S. support for Israel?
+A. It funds apartheid and war crimes.
+B. It disrupts the balance in the Middle East.
+C. It is seen as unnecessary foreign intervention.
+D. It is a misuse of taxpayer money.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,B,D,C,184,train,train
+92,34,"What reason do some conservatives give for supporting Israel?
+A. Strategic military alliance.
+B. Evangelical religious beliefs.
+C. Economic partnerships.
+D. Shared democratic values.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,B,D,A,185,train,train
+93,1,"What is the general consensus about the impact of fossil fuels on climate change?
+A. Fossil fuels are necessary, and their impact is exaggerated.
+B. Fossil fuels contribute significantly to climate change, requiring urgent action.
+C. Fossil fuels are a temporary necessity until better technology is developed.
+D. Fossil fuels' impact is overstated, and green energy is not yet viable.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,B,D,A,186,train,train
+93,1,"How do members from each subreddit view the relationship between climate change policies and the economy?
+A. Climate policies are essential and will eventually benefit the economy.
+B. Climate policies are detrimental to the economy and should be minimal.
+C. Climate policies should balance environmental needs and economic growth.
+D. Climate policies are a government overreach that harms the economy.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,,A,D,D,187,train,train
+94,27,"What is a common argument against raising the minimum wage?
+A. It will reduce income inequality.
+B. It will lead to increased automation.
+C. It will boost the economy through higher spending.
+D. It will improve workers’ living standards.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,,B,B,B,188,train,train
+94,27,"Why do some people believe minimum wage jobs should not be considered careers?
+A. They require significant training.
+B. They are meant for teenagers and part-timers.
+C. They offer high income potential.
+D. They provide extensive benefits.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,,B,B,B,189,train,train
+95,11,"Who is seen as responsible for perpetuating false narratives about political opponents?
+A. Mainstream media
+B. Politicians themselves
+C. Social media
+D. None of the above
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,,A,A,190,train,train
+95,11,"Which politician is often criticized for having a radical agenda?
+A. Kamala Harris
+B. Alexandria Ocasio-Cortez
+C. Hillary Clinton
+D. None of the above
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,B,,B,B,191,train,train
+96,9,"How would you describe the role of the media in covering the Capitol riot?
+A. Fair and balanced
+B. Overly harsh and biased against the rioters
+C. Underplaying the severity
+D. Drawing false equivalences with other protests
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,D,,B,B,192,train,train
+96,9,"What was the primary motivation behind the Capitol riot according to your community?
+A. Genuine belief in election fraud
+B. Incitement by political leaders
+C. Pre-planned attack by extremist groups
+D. A spontaneous protest against government overreach
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,,A,A,193,train,train
+97,26,"Which of the following is seen as a major issue with tax enforcement by the IRS?
+A. Lack of resources
+B. Overreach in auditing
+C. Complexity of tax code
+D. Political bias
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,,C,B,D,194,train,train
+97,26,"What is a commonly suggested solution for tax simplification?
+A. Increase IRS funding
+B. Implement a flat tax
+C. Introduce more tax brackets
+D. Eliminate tax deductions
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,,D,B,B,195,train,train
+98,9,"What is the appropriate response to those responsible for the January 6th Capitol attack?
+A. Criminal prosecution and long-term imprisonment
+B. Rehabilitation and education programs
+C. Minimal penalties and fines
+D. Recognition of their grievances and no punishment
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,,C,D,196,test,train
+98,9,"How do you perceive the media's coverage of the Capitol riot compared to BLM protests?
+A. The media was biased and exaggerated the Capitol riot.
+B. The media covered both fairly and accurately.
+C. The media underreported the violence of BLM protests.
+D. The media gave balanced coverage to both events.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,B,,C,A,197,test,train
+99,0,"What is a common argument against mandatory vaccination?
+A. It infringes on personal freedom.
+B. It undermines public health efforts.
+C. It is scientifically unsupported.
+D. It only benefits pharmaceutical companies.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,D,,A,A,198,test,train
+99,0,"Why do some people support getting vaccinated even if they have natural immunity?
+A. To protect vulnerable populations.
+B. To increase herd immunity.
+C. To comply with mandates.
+D. To prevent severe illness.
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",A,A,,D,A,199,test,train
+100,46,"Which group do you think the Democrats primarily serve?
+A. The common people
+B. The elites
+C. The working class
+D. Business interests
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",B,A,,B,B,200,train,train
+100,46,"What do you think will be the outcome of the midterm elections?
+A. Democrats will win both the House and Senate
+B. Republicans will win both the House and Senate
+C. Democrats will keep the Senate but lose the House
+D. Republicans will keep the House but lose the Senate
+Select only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",C,C,,C,B,201,train,train

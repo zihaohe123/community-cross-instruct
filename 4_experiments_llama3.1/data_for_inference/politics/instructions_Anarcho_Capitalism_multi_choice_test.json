@@ -1,0 +1,242 @@
+[
+    {
+        "instruction": "Which energy source is considered cheapest according to recent studies?\nA. Coal\nB. Nuclear\nC. Solar\nD. Natural Gas\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "C",
+        "topic": 1,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is the general consensus on the impact of electric vehicles (EVs)?\nA. They are too expensive and inefficient.\nB. They significantly reduce carbon emissions.\nC. They rely heavily on coal and gas for electricity.\nD. They will lead to energy grid overload.\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "C",
+        "topic": 1,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Which news outlet do members of r/Conservative believe is most egregiously biased?\nA. NPR\nB. CNN\nC. Fox News\nD. Associated Press\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "B",
+        "topic": 18,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "According to r/AskThe_Donald, what is the best way to verify the accuracy of news?\nA. Trust mainstream media\nB. Compare multiple sources\nC. Follow government announcements\nD. Assume the opposite of MSM\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "B",
+        "topic": 18,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What was the immediate cause of the Capitol riot according to most subreddit members?\nA. Stolen election narrative\nB. Police brutality\nC. CIA involvement\nD. Autonomy declarations\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "A",
+        "topic": 9,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Which group do members of your subreddit believe was responsible for most of the violence during the 2020 protests?\nA. Right-wing agitators posing as BLM\nB. BLM protesters\nC. Antifa members\nD. Police forces\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "C",
+        "topic": 9,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Which historical precedent is often cited regarding the Supreme Court's power to declare laws unconstitutional?\nA. Roe v. Wade\nB. Marbury v. Madison\nC. Brown v. Board of Education\nD. Citizens United v. FEC\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "B",
+        "topic": 31,
+        "split": "test",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What is a common argument against the idea of term limits for Supreme Court justices?\nA. It undermines judicial independence.\nB. It allows for too much political interference.\nC. It goes against the historical structure of the court.\nD. It would require a constitutional amendment.\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "A",
+        "topic": 31,
+        "split": "test",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "Which of the following is a primary factor contributing to high healthcare costs in the US?\nA. Government regulations\nB. Insurance company profits\nC. High uninsured rates\nD. Administrative overhead\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "A",
+        "topic": 24,
+        "split": "test",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What would be the most likely outcome if the US adopted a single-payer healthcare system?\nA. Improved healthcare quality\nB. Decreased healthcare access\nC. Reduced healthcare costs\nD. Increased government inefficiency\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "D",
+        "topic": 24,
+        "split": "test",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "Which factor is most often cited as a reason for Russia's invasion of Ukraine?  \nA. NATO expansion  \nB. Ukraine's natural resources  \nC. Historical ties to Crimea  \nD. Western propaganda  \nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "A",
+        "topic": 4,
+        "split": "test",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do commenters typically view the role of media in the Ukraine conflict?  \nA. Fair and balanced reporting  \nB. Propaganda and misinformation  \nC. Biased but informative  \nD. Neutral and factual  \nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "D",
+        "topic": 4,
+        "split": "test",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "Which group is most often blamed for instigating gun control laws?\nA. The government\nB. Liberals\nC. Media\nD. Criminals\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "B",
+        "topic": 6,
+        "split": "test",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What is one suggested method to reduce mass shootings?\nA. Banning all guns\nB. Universal background checks\nC. Focusing on mental health\nD. Stricter law enforcement\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "C",
+        "topic": 6,
+        "split": "test",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What do you think about DeSantis' policies on free speech in schools?\nA. They promote necessary protection for children.\nB. They are a form of censorship and control.\nC. They are a mixed bag, some good, some bad.\nD. They are too authoritarian and overreaching.\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "A",
+        "topic": 20,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Which scenario do you think would be best for the Republican party in 2024?\nA. Trump running for president with DeSantis as VP.\nB. DeSantis running for president with Trump\u2019s endorsement.\nC. Trump running alone, with DeSantis continuing as a governor.\nD. Neither running, introducing a new candidate.\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "B",
+        "topic": 20,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is one reason cited for why socialism is seen as a failure in Venezuela?\nA. Economic sanctions\nB. Political corruption\nC. Poor healthcare\nD. Lack of education\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "B",
+        "topic": 38,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Why do some believe the US should not intervene in foreign countries' affairs, including Venezuela?\nA. Historical failures of intervention\nB. Focus should be on domestic issues first\nC. Risk of economic repercussions\nD. Moral obligation to respect sovereignty\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "D",
+        "topic": 38,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "According to your community, who is to blame for the student loan crisis?\nA. The students who took out loans.\nB. The government for backing loans.\nC. Colleges for raising tuition.\nD. Private banks.\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "B",
+        "topic": 14,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What solution does your community primarily support for reducing the cost of college education?\nA. Government subsidies and grants.\nB. Reducing interest rates on student loans.\nC. Increasing private sector involvement.\nD. Eliminating government-backed loans.\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "D",
+        "topic": 14,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Which demographic is often mentioned as being most at risk from COVID-19?\nA. Children\nB. Elderly\nC. Young adults\nD. Middle-aged\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "B",
+        "topic": 0,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is a common concern about the COVID-19 vaccine mentioned across the comments?\nA. Lack of efficacy\nB. Long-term safety data\nC. Cost of the vaccine\nD. Availability of vaccines\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "B",
+        "topic": 0,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "According to members of r/AskThe_Donald, what is the main role of police?\nA. Protecting and serving citizens\nB. Enforcing unjust laws for the state\nC. Maintaining societal order\nD. Enforcing constitutional rights\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "B",
+        "topic": 30,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What do members of r/Anarcho_Capitalism think about the idea of private policing?\nA. It would be more accountable and efficient\nB. It would lead to further corruption\nC. It is not a viable solution\nD. It should be combined with public oversight\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "A",
+        "topic": 30,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Which of these amendments is most frequently cited in discussions about state versus federal power?\nA. 1st Amendment\nB. 2nd Amendment\nC. 10th Amendment\nD. 14th Amendment\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "C",
+        "topic": 57,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members suggest dealing with states wanting to leave the union?\nA. Allow them to secede peacefully\nB. Force them to stay through federal intervention\nC. Negotiate new terms for remaining in the union\nD. Ignore their demands\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "A",
+        "topic": 57,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is the appropriate response to those responsible for the January 6th Capitol attack?\nA. Criminal prosecution and long-term imprisonment\nB. Rehabilitation and education programs\nC. Minimal penalties and fines\nD. Recognition of their grievances and no punishment\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "A",
+        "topic": 9,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you perceive the media's coverage of the Capitol riot compared to BLM protests?\nA. The media was biased and exaggerated the Capitol riot.\nB. The media covered both fairly and accurately.\nC. The media underreported the violence of BLM protests.\nD. The media gave balanced coverage to both events.\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "A",
+        "topic": 9,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is a common argument against mandatory vaccination?\nA. It infringes on personal freedom.\nB. It undermines public health efforts.\nC. It is scientifically unsupported.\nD. It only benefits pharmaceutical companies.\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "A",
+        "topic": 0,
+        "split": "test",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Why do some people support getting vaccinated even if they have natural immunity?\nA. To protect vulnerable populations.\nB. To increase herd immunity.\nC. To comply with mandates.\nD. To prevent severe illness.\nSelect only one answer that best aligns with your opinions, by stating either A, B, C, or D. Do not provide any additional explanation or rationale for your choice.",
+        "input": "",
+        "output": "A",
+        "topic": 0,
+        "split": "test",
+        "split_by_topic": "train"
+    }
+]

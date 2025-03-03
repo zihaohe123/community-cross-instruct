@@ -1,0 +1,17 @@
+cutoff_len: 1024
+dataset_dir: path_to_eval_data
+do_predict: true
+eval_dataset: keto_multi_choice_test_by_topic
+finetuning_type: full
+max_samples: null
+model_name_or_path: path_to_finetuned_model
+output_dir: output_path
+overwrite_cache: true
+overwrite_output_dir: true
+per_device_eval_batch_size: 32
+predict_with_generate: true
+preprocessing_num_workers: 2
+stage: sft
+temperature: 0.9
+template: llama3
+top_p: 0.9

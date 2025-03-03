@@ -1,0 +1,1586 @@
+[
+    {
+        "instruction": "What are the primary reasons given by users for supporting or opposing gun control laws?",
+        "input": "",
+        "output": "The effectiveness of gun control laws is debated; some argue they reduce violence, others say they infringe on rights.",
+        "topic": 6,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do community members feel about the concept of arming teachers or increasing security in schools?",
+        "input": "",
+        "output": "Opinions are mixed; some see it as a deterrent, others think it doesn't address the core problem.",
+        "topic": 6,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What do users think about the effectiveness of waiting periods for gun purchases?",
+        "input": "",
+        "output": "Waiting periods can be a useful deterrent for impulsive acts but are not a complete solution.",
+        "topic": 6,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do different societies treat transgender individuals?",
+        "input": "",
+        "output": "Different societies have varying levels of acceptance, with some being more progressive and others more conservative.",
+        "topic": 8,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Should children be allowed to undergo gender transition treatments?",
+        "input": "",
+        "output": "Medical treatments should be based on thorough assessments by professionals.",
+        "topic": 8,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What role should schools play in teaching about gender identity?",
+        "input": "",
+        "output": "Schools should provide information but respect parental rights and diverse opinions.",
+        "topic": 8,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Why do some people believe the FBI raid on Trump's home was politically motivated?",
+        "input": "",
+        "output": "There's speculation that the FBI was looking for documents Trump took that should have been turned over to the National Archives.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the implications of Trump's impeachment on future political processes?",
+        "input": "",
+        "output": "It sets a precedent for how future impeachments might be conducted, especially concerning post-term actions.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do different factions within the political spectrum view the Mueller Report's findings?",
+        "input": "",
+        "output": "The report is complex and didn't conclusively charge Trump but left enough ambiguity for interpretation by Congress.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Why do people from other subreddits often get banned when they post in your subreddit?",
+        "input": "",
+        "output": "Bans happen due to strict moderation policies and breaking of specific subreddit rules.",
+        "topic": 23,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do mods handle differing political opinions in your subreddit?",
+        "input": "",
+        "output": "Mods enforce strict rules against bias and require well-supported arguments.",
+        "topic": 23,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is the main reason for creating an \"echo chamber\" in your subreddit?",
+        "input": "",
+        "output": "It\u2019s not intentional; it\u2019s about maintaining high-quality, non-biased discussions.",
+        "topic": 23,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the primary reasons mentioned by users for Russia's invasion of Ukraine?",
+        "input": "",
+        "output": "To prevent NATO expansion and due to historical and geopolitical reasons.",
+        "topic": 4,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do users describe the role of the United States in the conflict between Russia and Ukraine?",
+        "input": "",
+        "output": "The US supports Ukraine to uphold international law and counter Russian aggression.",
+        "topic": 4,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What is the general consensus on whether NATO's expansion is justified according to the users?",
+        "input": "",
+        "output": "NATO expansion is a response to Eastern European countries' fears of Russian invasion.",
+        "topic": 4,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are some reasons given for the increase in college tuition costs?",
+        "input": "",
+        "output": "Government guarantees lead colleges to charge more.",
+        "topic": 14,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Why do some people oppose student loan forgiveness?",
+        "input": "",
+        "output": "It could harm people who already paid off their loans.",
+        "topic": 14,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do different types of degrees affect opinions on student loan debt?",
+        "input": "",
+        "output": "Good degrees don\u2019t waste relief, unlike bad degrees.",
+        "topic": 14,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the potential downsides of legalizing marijuana according to your perspective?",
+        "input": "",
+        "output": "The federal-state legality clash and potential regulatory hurdles.",
+        "topic": 12,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How should the government handle the taxation of legalized marijuana?",
+        "input": "",
+        "output": "Balanced taxes to ensure regulation without overburdening consumers.",
+        "topic": 12,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What impact could marijuana legalization have on existing black markets?",
+        "input": "",
+        "output": "Mixed; might decrease if well-regulated but could stay due to taxes.",
+        "topic": 12,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the primary concerns about social media companies censoring content?",
+        "input": "",
+        "output": "It limits free discussion and can unfairly restrict public forums.",
+        "topic": 5,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members of your subreddit view Elon Musk's takeover of Twitter?",
+        "input": "",
+        "output": "It raises questions on the implications for public forums and corporate responsibilities.",
+        "topic": 5,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is your opinion on the collaboration between big tech companies and the government?",
+        "input": "",
+        "output": "It poses a challenge to maintaining a balance between free speech and public order.",
+        "topic": 5,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Why do some people compare the January 6th Capitol attack to the BLM protests?",
+        "input": "",
+        "output": "Comparisons are made to highlight inconsistencies in responses and rhetoric.",
+        "topic": 9,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are some arguments used to claim that the Capitol attack was an insurrection?",
+        "input": "",
+        "output": "It disrupted a lawful government process and involved violent actions against the Capitol.",
+        "topic": 9,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do people from different political perspectives view the role of media in the events of January 6th?",
+        "input": "",
+        "output": "Media coverage varies widely, influencing public perception based on outlet leanings.",
+        "topic": 9,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Why did some people feel that the U.S. should have evacuated civilians before withdrawing troops from Afghanistan?",
+        "input": "",
+        "output": "It was a strategic error that left many vulnerable and unprotected.",
+        "topic": 21,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What were some criticisms of Biden's handling of the Afghanistan withdrawal?",
+        "input": "",
+        "output": "Lack of preparedness and failure to protect American assets.",
+        "topic": 21,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members of different subreddits view the Taliban's takeover of Afghanistan?",
+        "input": "",
+        "output": "The takeover was likely unavoidable, a consequence of long-term issues.",
+        "topic": 21,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members view the role of the Afghan National Army (ANA) in the collapse of Afghanistan?",
+        "input": "",
+        "output": "The ANA lacked support and faced demoralization.",
+        "topic": 21,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Who do members think bears the primary responsibility for the evacuation issues in Afghanistan?",
+        "input": "",
+        "output": "Both Trump and Biden's administrations share the blame.",
+        "topic": 21,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the members' views on the Taliban's control over Afghanistan post-US withdrawal?",
+        "input": "",
+        "output": "The Taliban's takeover was inevitable once the US left.",
+        "topic": 21,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the reasons given by commenters to support Ukraine in its conflict with Russia?",
+        "input": "",
+        "output": "To support a nation under unprovoked attack and maintain international order.",
+        "topic": 4,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do the commenters view Ukraine's government and its actions in the conflict?",
+        "input": "",
+        "output": "Acknowledges Ukraine's corruption but supports its right to defend itself.",
+        "topic": 4,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are the opinions on NATO's role in the Ukraine-Russia conflict?",
+        "input": "",
+        "output": "Sees NATO as a stabilizing force but recognizes its complexities in the conflict.",
+        "topic": 4,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are some reasons given for supporting abortion in cases of rape or incest?",
+        "input": "",
+        "output": "Balancing the rights of the mother and the unborn; both are innocent.",
+        "topic": 3,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How is the relationship between bodily autonomy and abortion rights discussed?",
+        "input": "",
+        "output": "Discusses limits; bodily rights end where another's begin.",
+        "topic": 3,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the implications of overturning Roe v. Wade according to the comments?",
+        "input": "",
+        "output": "It disrupts the previous legal compromise and balance.",
+        "topic": 3,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the main arguments for why the Mueller investigation did or did not find sufficient evidence of collusion?",
+        "input": "",
+        "output": "Mueller cited DOJ policy against indicting a sitting president, indicating substantial evidence.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do the different subreddits view Trump's handling of classified documents?",
+        "input": "",
+        "output": "Handling of classified documents is complex; needs thorough investigation.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is the general opinion of each subreddit on the effectiveness of impeachment as a political tool?",
+        "input": "",
+        "output": "Impeachment is a constitutional tool but its effectiveness varies.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you view the role of the state in regulating abortions?",
+        "input": "",
+        "output": "The state can regulate but needs clear legal grounding and public support. It\u2019s a complex legal issue.",
+        "topic": 3,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are your thoughts on the argument that life begins at conception?",
+        "input": "",
+        "output": "It\u2019s a philosophical and scientific debate. Different people have different beliefs.",
+        "topic": 3,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Should there be any exceptions to abortion bans? If so, what are they?",
+        "input": "",
+        "output": "Exceptions should include rape, incest, and serious health risks to the mother.",
+        "topic": 3,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the main reasons some people believe Trump should be impeached according to the comments?",
+        "input": "",
+        "output": "Obstruction of justice, abuse of power, and national security concerns.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members of each subreddit view the Mueller investigation's findings?",
+        "input": "",
+        "output": "It provided evidence but no clear direction for action.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What do members think about the FBI's actions related to Trump and the investigations?",
+        "input": "",
+        "output": "The FBI's actions are complex and should be analyzed carefully.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Why do members from your subreddit believe high taxes on the rich are ineffective or effective?",
+        "input": "",
+        "output": "It depends; high taxes can generate revenue but might also lead to tax avoidance.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How does your subreddit view the current tax burden distribution across different income brackets?",
+        "input": "",
+        "output": "The top income brackets pay a significant share of taxes, but the system has complexities.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is your subreddit\u2019s stance on the IRS increasing audits on wealthy individuals?",
+        "input": "",
+        "output": "More audits could help ensure compliance, but the process needs to be transparent.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members of each subreddit view the relationship between morality and religion?",
+        "input": "",
+        "output": "Morality can be independent of religion; it\u2019s about the relationship between people and their beliefs.",
+        "topic": 10,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is the stance of each subreddit on the separation of church and state?",
+        "input": "",
+        "output": "The First Amendment mandates government neutrality between religion and nonreligion.",
+        "topic": 10,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members of each subreddit perceive Islam compared to Christianity?",
+        "input": "",
+        "output": "The US isn't favoring any religion; it's a secular nation with a Christian-majority population.",
+        "topic": 10,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the primary reasons given for supporting late-term abortions?",
+        "input": "",
+        "output": "Protect maternal health and address severe fetal defects.",
+        "topic": 3,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members of your subreddit view the involvement of the government in abortion decisions?",
+        "input": "",
+        "output": "It varies; some support state regulation while others seek federal protection.",
+        "topic": 3,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the key arguments against Roe v. Wade from your subreddit?",
+        "input": "",
+        "output": "It lacks constitutional backing; should be state-decided.",
+        "topic": 3,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the main criticisms of corporate behavior regarding oil prices?",
+        "input": "",
+        "output": "High profits despite supply challenges.",
+        "topic": 1,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do users view the impact of human activity on climate change?",
+        "input": "",
+        "output": "It's a contributing factor but needs more study.",
+        "topic": 1,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the suggested energy alternatives to fossil fuels?",
+        "input": "",
+        "output": "Evaluate nuclear and other renewable sources.",
+        "topic": 1,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Why do some people argue that gun-free zones attract mass shootings?",
+        "input": "",
+        "output": "Some believe gun-free zones are easier targets, but evidence is mixed.",
+        "topic": 6,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are the potential drawbacks of having a universal background check system for all gun transactions?",
+        "input": "",
+        "output": "Effective for reducing some crimes but difficult to enforce universally.",
+        "topic": 6,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do different types of firearms (e.g., handguns vs. AR-15s) factor into the gun control debate?",
+        "input": "",
+        "output": "The debate often focuses on AR-15s due to their use in high-profile incidents.",
+        "topic": 6,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What is the general sentiment towards taxation among members of your subreddit?",
+        "input": "",
+        "output": "Opinions on taxes are mixed, focusing on fairness and economic impact.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members of your subreddit perceive tax cuts for the wealthy?",
+        "input": "",
+        "output": "Varied opinions, with some seeing potential economic benefits and others focusing on fairness.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the main criticisms of the current tax system according to members of your subreddit?",
+        "input": "",
+        "output": "Lack of simplicity and fairness in the tax code, with too many loopholes.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the opinions on the efficiency and practicality of electric vehicles (EVs)?",
+        "input": "",
+        "output": "EV efficiency is debated, but long-term benefits with innovations are promising.",
+        "topic": 1,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members view the impact of government policies on oil prices?",
+        "input": "",
+        "output": "Government policies do influence prices, but market dynamics play a larger role.",
+        "topic": 1,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the views on the role of fossil fuels in energy independence?",
+        "input": "",
+        "output": "Fossil fuels are important, but the focus should be on balancing with renewables.",
+        "topic": 1,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members of your subreddit view the FBI's role in investigating Trump?",
+        "input": "",
+        "output": "The FBI's actions should be scrutinized while ensuring they follow legal procedures.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is the sentiment in your subreddit regarding Trump's alleged withholding of documents?",
+        "input": "",
+        "output": "Cautious, waiting for more concrete evidence before forming a strong opinion.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members of your subreddit feel about the possibility of Trump running for office again?",
+        "input": "",
+        "output": "Concerned, but open to the democratic process determining the outcome.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you believe gun laws affect the safety of minority communities?",
+        "input": "",
+        "output": "The impact varies; some laws may reduce firearm homicides, while others may not be effective.",
+        "topic": 6,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What do you think about the idea of arming teachers to prevent school shootings?",
+        "input": "",
+        "output": "Arming teachers may not be effective; requiring comprehensive background checks and training are better solutions.",
+        "topic": 6,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do you view the relationship between gun ownership and government power?",
+        "input": "",
+        "output": "The relationship is complex; historical and contextual factors play a significant role.",
+        "topic": 6,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What measures do you think should be taken to ensure the security of voting machines?",
+        "input": "",
+        "output": "Implement thorough audits and checks.",
+        "topic": 2,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you feel about mail-in voting?",
+        "input": "",
+        "output": "It needs proper safeguards but is generally effective.",
+        "topic": 2,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is your opinion on voter ID laws?",
+        "input": "",
+        "output": "They should be balanced with easy access to IDs.",
+        "topic": 2,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is your opinion on the objectivity of mainstream media?",
+        "input": "",
+        "output": "Mainstream media has biases, but some outlets provide reliable data and sources.",
+        "topic": 18,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you verify the accuracy of the news you consume?",
+        "input": "",
+        "output": "I cross-reference multiple reputable sources and look at the underlying data.",
+        "topic": 18,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you think corporate ownership affects media reporting?",
+        "input": "",
+        "output": "Corporate ownership introduces biases and influences the focus of reporting.",
+        "topic": 18,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are some perspectives on Elon Musk's acquisition of Twitter?",
+        "input": "",
+        "output": "It raises questions about the balance between free speech and responsible moderation.",
+        "topic": 5,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How is censorship by social media platforms perceived across subreddits?",
+        "input": "",
+        "output": "Complex; balancing free speech and harmful content is a nuanced issue.",
+        "topic": 5,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the opinions on alternative social media platforms?",
+        "input": "",
+        "output": "They are important for diversity but must ensure responsible moderation.",
+        "topic": 5,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Should transitioning children be considered child abuse?",
+        "input": "",
+        "output": "It's a complex issue that should involve careful consideration of medical, psychological, and legal perspectives.",
+        "topic": 8,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members feel about the use of puberty blockers for transgender children?",
+        "input": "",
+        "output": "More research is needed, but they can provide positive mental health outcomes for some children.",
+        "topic": 8,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is the general opinion on changing pronouns to match gender identity?",
+        "input": "",
+        "output": "Pronouns are important for individual identity, but policies should balance personal rights and social norms.",
+        "topic": 8,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members in your subreddit feel about vaccine mandates?",
+        "input": "",
+        "output": "Varied; some support, some question legality.",
+        "topic": 0,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the concerns about the mRNA COVID-19 vaccines mentioned in your subreddit?",
+        "input": "",
+        "output": "Mixed; some mention potential allergies or side effects.",
+        "topic": 0,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members in your subreddit view natural immunity in relation to COVID-19 vaccines?",
+        "input": "",
+        "output": "Vaccination is generally recommended over relying on natural immunity.",
+        "topic": 0,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members of your subreddit view NATO's involvement in the Ukraine conflict?",
+        "input": "",
+        "output": "NATO's involvement is seen as a necessary response to Russian threats.",
+        "topic": 4,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are the perceived motivations behind Putin's actions in Ukraine according to your subreddit?",
+        "input": "",
+        "output": "To protect Russian-speaking populations and secure geopolitical interests.",
+        "topic": 4,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do members of your subreddit feel about U.S. aid to Ukraine?",
+        "input": "",
+        "output": "Seen as a necessary measure to uphold international agreements and deter aggression.",
+        "topic": 4,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are some reasons members believe social media companies like Twitter and Facebook engage in selective censorship?",
+        "input": "",
+        "output": "Due to their role as digital public forums, requiring them to balance free speech and harmful content.",
+        "topic": 5,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members view Elon Musk\u2019s involvement with Twitter?",
+        "input": "",
+        "output": "Uncertain, waiting to see if his changes will respect free speech.",
+        "topic": 5,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Why do members think alternative social media platforms struggle to gain popularity?",
+        "input": "",
+        "output": "Can't compete with the interoperability and user base of giants like Facebook and Twitter.",
+        "topic": 5,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is your opinion on Elon Musk's acquisition of Twitter?",
+        "input": "",
+        "output": "It\u2019s significant due to Twitter\u2019s role in public discourse; opinions vary on potential impacts.",
+        "topic": 5,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you view Facebook\u2019s role in censorship and user privacy concerns?",
+        "input": "",
+        "output": "Facebook\u2019s role is controversial; there are significant concerns about censorship and privacy.",
+        "topic": 5,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Should social media platforms be held accountable for the content they host?",
+        "input": "",
+        "output": "It's complex; platforms should balance free speech with preventing harmful content.",
+        "topic": 5,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is a common concern about mail-in ballots mentioned in your subreddit?",
+        "input": "",
+        "output": "Mail-in ballots can complicate the voting process and need proper verification.",
+        "topic": 2,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members in your subreddit feel about voter ID laws?",
+        "input": "",
+        "output": "Voter ID laws are seen as bureaucratic but somewhat necessary.",
+        "topic": 2,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the perceived motivations behind pushing for audits and recounts according to your subreddit?",
+        "input": "",
+        "output": "Audits can ensure transparency but are often politically motivated.",
+        "topic": 2,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members of your subreddit view the idea of mandatory gun confiscation by the government?",
+        "input": "",
+        "output": "Opinions vary, but many see it as unrealistic and controversial.",
+        "topic": 6,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are your thoughts on the effectiveness of gun-free zones in reducing gun violence?",
+        "input": "",
+        "output": "The effectiveness is debated; some see them as a deterrent, others as ineffective.",
+        "topic": 6,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "Should teachers be armed in schools to enhance safety?",
+        "input": "",
+        "output": "Opinions are mixed; effectiveness and safety concerns are raised.",
+        "topic": 6,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are some arguments for and against border walls discussed in these subreddits?",
+        "input": "",
+        "output": "Arguments against focus on it being a symbolic, ineffective expense. Arguments for include it being a physical symbol of immigration control.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do different subreddits view the role of the state in border security?",
+        "input": "",
+        "output": "The state has a role but should balance effectiveness with ethical considerations and public opinion.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What solutions, aside from walls, do members of these subreddits propose for managing immigration?",
+        "input": "",
+        "output": "Implement technology, better border patrol, and address root causes in home countries.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are some of the economic impacts of immigration mentioned by members in these subreddits?",
+        "input": "",
+        "output": "The impact is nuanced and can depend on various factors including local economic conditions.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do members of these subreddits view the separation of children from their parents at the border?",
+        "input": "",
+        "output": "It\u2019s a complex issue that needs a humane solution.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What arguments are made about the effectiveness of a physical border wall?",
+        "input": "",
+        "output": "It\u2019s not justified based on current data and may not solve the identified crisis.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are the potential benefits of legalizing marijuana according to the evidence mentioned?",
+        "input": "",
+        "output": "Expunging marijuana convictions can correct a great wrong by the government.",
+        "topic": 12,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Why do some people argue that the government should not control what substances people consume?",
+        "input": "",
+        "output": "Our country is founded on opposing unjust laws; personal freedom is crucial.",
+        "topic": 12,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are some concerns related to the legalization of marijuana mentioned?",
+        "input": "",
+        "output": "Legalizing might lead to a spike in DUIs and crime rates.",
+        "topic": 12,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you feel when someone uses insults instead of making a coherent argument?",
+        "input": "",
+        "output": "Insults detract from productive discourse and indicate a lack of substantial argument.",
+        "topic": 32,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What should you do if someone keeps moving goalposts during a discussion?",
+        "input": "",
+        "output": "Highlight their changing arguments and request they address the original point consistently.",
+        "topic": 32,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you handle people who refuse to back up their claims with sources?",
+        "input": "",
+        "output": "Request sources explicitly and explain why it's necessary for a constructive discussion. ",
+        "topic": 32,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the main concerns about mail-in ballots?",
+        "input": "",
+        "output": "Verification issues and potential delays in counting are concerns.",
+        "topic": 2,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do voter ID laws impact different communities?",
+        "input": "",
+        "output": "They can suppress voter turnout, especially among marginalized groups.",
+        "topic": 2,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What role do voting machines play in election integrity?",
+        "input": "",
+        "output": "Proper auditing and security measures are essential for machine use.",
+        "topic": 2,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the views on the FBI's role in the investigations related to Trump?",
+        "input": "",
+        "output": "The FBI's findings and processes raise concerns about transparency and credibility.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do the different subreddits perceive the impeachment proceedings against Trump?",
+        "input": "",
+        "output": "Impeachment is a political process that should address high crimes and misdemeanors.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the opinions on the Mueller Report\u2019s findings?",
+        "input": "",
+        "output": "The report clarified there was no established collusion but highlighted obstruction issues.",
+        "topic": 7,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do different subreddits view the legitimacy and partisanship of the Supreme Court?",
+        "input": "",
+        "output": "The Supreme Court isn't supposed to be partisan; it should uphold the Constitution impartially.",
+        "topic": 31,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are some concerns expressed about judges being involved in politics and legislating from the bench?",
+        "input": "",
+        "output": "Judges promoting ideology through legislating from the bench is a serious threat to the republic.",
+        "topic": 31,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do different subreddits perceive the process and effects of judicial appointments?",
+        "input": "",
+        "output": "Judicial appointments are inherently political but necessary for maintaining checks and balances.",
+        "topic": 31,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do members of your subreddit view the role of government in healthcare?",
+        "input": "",
+        "output": "Mixed views; some see a need for reform, others question the efficacy.",
+        "topic": 24,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are the perceived benefits of a single-payer healthcare system according to members of your subreddit?",
+        "input": "",
+        "output": "It simplifies the system and could lower administrative costs.",
+        "topic": 24,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do members of your subreddit feel about the current US healthcare system?",
+        "input": "",
+        "output": "It's inefficient and too expensive; needs significant changes.",
+        "topic": 24,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do members of your community view the idea that abortion restrictions are mainly about controlling women rather than protecting fetuses?",
+        "input": "",
+        "output": "There is a recognition that different people see it differently, but many acknowledge control concerns.",
+        "topic": 3,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Should states have the right to decide on the legality of abortion, or is it a federal issue?",
+        "input": "",
+        "output": "There's a mix; some argue states' rights, others argue for federal consistency.",
+        "topic": 3,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you reconcile the right to bodily autonomy with the rights of an unborn fetus?",
+        "input": "",
+        "output": "It's a complex balance between bodily autonomy and potential personhood.",
+        "topic": 3,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is the general opinion about voter ID laws in your subreddit?",
+        "input": "",
+        "output": "Voter ID laws are debated; some argue they address non-existent problems and waste resources.",
+        "topic": 2,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members of your subreddit view the 2020 election audits, particularly in states like Arizona?",
+        "input": "",
+        "output": "Opinions are mixed; some see the audits as necessary while others view them as politically motivated and unsubstantiated.",
+        "topic": 2,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is the perceived impact of mail-in voting on election integrity in your subreddit?",
+        "input": "",
+        "output": "Mail-in voting is seen as a practical solution but requires robust safeguards to maintain integrity.",
+        "topic": 2,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do insurance premiums in the U.S. compare to other countries?",
+        "input": "",
+        "output": "U.S. spends more on healthcare, while other countries spend less and live longer.",
+        "topic": 24,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are the biggest issues causing high healthcare costs in the U.S.?",
+        "input": "",
+        "output": "High wages and complicated insurance systems.",
+        "topic": 24,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do people feel about the quality of public healthcare in other countries?",
+        "input": "",
+        "output": "Public systems often make the wealthy invest in improving them.",
+        "topic": 24,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are some alternative suggestions to the wall for handling immigration?",
+        "input": "",
+        "output": "Increased surveillance tools, more equipment, better staff training.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do users on this subreddit view the connection between illegal immigration and the welfare state?",
+        "input": "",
+        "output": "They argue that illegal immigrants don't qualify for welfare benefits.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are the opinions on family separation at the border?",
+        "input": "",
+        "output": "Generally opposed, citing the need for humane treatment.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do members in your subreddit perceive the impact of US sanctions on Venezuela's economic crisis?",
+        "input": "",
+        "output": "There are mixed opinions; some argue US sanctions worsened the crisis, while others focus on internal issues.",
+        "topic": 38,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is your subreddit\u2019s view on Cuba's healthcare system?",
+        "input": "",
+        "output": "It's complicated; Cuba has some positive health outcomes despite its limitations.",
+        "topic": 38,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What role do you think socialism has played in the current state of Venezuela?",
+        "input": "",
+        "output": "Socialism combined with poor governance and external pressures created the crisis.",
+        "topic": 38,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the views on taxing unrealized capital gains?",
+        "input": "",
+        "output": "It can be complicated but paying tax on gains is necessary once profit is made.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Should there be any form of progressive taxation, and why?",
+        "input": "",
+        "output": "Yes, it helps to reduce inequality and is fair for those with higher earnings.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How does the funding of the IRS impact tax enforcement, especially on the wealthy?",
+        "input": "",
+        "output": "Proper funding is essential for auditing high-income individuals effectively.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How would a Chinese invasion of Taiwan impact the global economy?",
+        "input": "",
+        "output": "Significant damage to supply chains, particularly in semiconductors and electronics.",
+        "topic": 79,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Why hasn't China invaded Taiwan yet despite its long-standing claims?",
+        "input": "",
+        "output": "The economic and reputational costs are too high for China.",
+        "topic": 79,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Do you think the United States would militarily intervene if China invaded Taiwan?",
+        "input": "",
+        "output": "Likely, due to commitments to Taiwan's defense and global strategic interests.",
+        "topic": 79,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is a significant concern about UBI funding among members of your subreddit?",
+        "input": "",
+        "output": "The main concern is how to pay for it without causing economic disruptions.",
+        "topic": 104,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How is UBI perceived in relation to existing welfare programs in your subreddit?",
+        "input": "",
+        "output": "It could potentially replace welfare programs to reduce poverty more effectively.",
+        "topic": 104,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is the impact of UBI on work incentives according to members of your subreddit?",
+        "input": "",
+        "output": "UBI might reduce the poverty trap seen with means-tested welfare.",
+        "topic": 104,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What were the two distinct wars in Afghanistan after 9/11?",
+        "input": "",
+        "output": "A war against al-Qaeda after 9/11 and a broader mission to build a democratic Afghanistan.",
+        "topic": 21,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How did the Taliban manage to retake control of Afghanistan so quickly?",
+        "input": "",
+        "output": "The Taliban had been preparing for the withdrawal and the Afghan forces were poorly motivated.",
+        "topic": 21,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are some criticisms about Biden's handling of the Afghanistan withdrawal?",
+        "input": "",
+        "output": "Lack of preparedness by the administration for the evacuation during the withdrawal.",
+        "topic": 21,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are some reasons given for the U.S. involvement in Yemen?",
+        "input": "",
+        "output": "U.S involvement is due to selling weapons to Saudi Arabia and providing intelligence for targeting purposes.",
+        "topic": 84,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do different subreddits perceive the Iran nuclear deal?",
+        "input": "",
+        "output": "Iran stayed within the terms of the deal for nearly a year after the U.S. withdrawal, then publicly exceeded the stockpile limits.",
+        "topic": 84,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the views on U.S. relations with Saudi Arabia?",
+        "input": "",
+        "output": "The U.S. should reconsider its military ties with Saudi Arabia due to their war crimes in Yemen.",
+        "topic": 84,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you feel about the concept of progressive taxation?",
+        "input": "",
+        "output": "Progressive taxation helps reduce wealth inequality.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are your thoughts on closing tax loopholes used by the wealthy?",
+        "input": "",
+        "output": "Closing loopholes is necessary to ensure fairness in the system.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you think the government should spend the revenue collected from taxes?",
+        "input": "",
+        "output": "On public services like healthcare, education, and infrastructure.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is the impact of government regulations on the housing market?",
+        "input": "",
+        "output": "Government regulations can sometimes prevent housing crises, but they also contribute to high costs.",
+        "topic": 51,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do zoning laws affect the availability of affordable housing?",
+        "input": "",
+        "output": "Zoning laws in high-density areas exacerbate housing shortages.",
+        "topic": 51,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What role do you think landlords play in the current housing market issues?",
+        "input": "",
+        "output": "Landlords are part of the problem but also necessary for providing housing.",
+        "topic": 51,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the main reasons some people oppose building a wall on the US-Mexico border?",
+        "input": "",
+        "output": "A wall is expensive and ineffective compared to other methods like visa reforms and increased legal immigration.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do different subreddits view the issue of illegal immigration affecting crime rates in the US?",
+        "input": "",
+        "output": "Evidence suggests illegal immigrants commit fewer crimes than native-born citizens; it's a politically charged topic.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What do members think about the concept of \"open borders\"?",
+        "input": "",
+        "output": "Open borders are impractical; balanced immigration policies are more realistic and effective.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "Why do some people believe it's important for Trump to release his tax returns?",
+        "input": "",
+        "output": "To identify potential conflicts of interest and unethical conduct.",
+        "topic": 105,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the main arguments against forcing a president to release their tax returns?",
+        "input": "",
+        "output": "It could violate privacy and set a dangerous precedent.",
+        "topic": 105,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Why do some commenters believe there might not be anything illegal in Trump's tax returns?",
+        "input": "",
+        "output": "IRS audits would have already identified any illegal actions.",
+        "topic": 105,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the common criticisms of China's government mentioned in these comments?",
+        "input": "",
+        "output": "Human rights violations, Xinjiang internment camps, and authoritarianism.",
+        "topic": 37,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do users in your subreddit perceive China's influence on global trade?",
+        "input": "",
+        "output": "China's economic rise affects global trade, often operating through infrastructure investments like One Belt, One Road.",
+        "topic": 37,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members on your subreddit feel about the Hong Kong protests?",
+        "input": "",
+        "output": "Acknowledgement of the protests' significance but a focus on their political and legal implications.",
+        "topic": 37,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What factors do you think contribute to the high cost of college tuition?",
+        "input": "",
+        "output": "State funding cuts and increased demand for higher education.",
+        "topic": 14,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you believe student loans affect the economy?",
+        "input": "",
+        "output": "They shift the financial burden from the collective to individuals.",
+        "topic": 14,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are your thoughts on student loan forgiveness programs?",
+        "input": "",
+        "output": "They can help alleviate financial burdens but need careful planning.",
+        "topic": 14,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do you think mass immigration impacts local communities?",
+        "input": "",
+        "output": "It can create perceived threats but also brings diverse cultural and economic benefits.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are your views on the effectiveness of a border wall?",
+        "input": "",
+        "output": "Walls have some effectiveness but are costly and environmentally damaging.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "Do you believe deportation is a fair method to handle illegal immigration? Why or why not?",
+        "input": "",
+        "output": "It\u2019s necessary but should be balanced with due process and humanitarian considerations.",
+        "topic": 17,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How do members of your subreddit view monopolies in a capitalist system?",
+        "input": "",
+        "output": "Monopolies are a result of insufficient government regulation in capitalist systems.",
+        "topic": 13,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is your perspective on state intervention in the economy?",
+        "input": "",
+        "output": "Some state intervention is necessary to correct market failures and ensure social benefits.",
+        "topic": 13,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How would you define socialism based on the discussions in your subreddit?",
+        "input": "",
+        "output": "Socialism involves social ownership and management of the means of production, often through government.",
+        "topic": 13,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do long wait times impact healthcare quality in different systems?",
+        "input": "",
+        "output": "Long wait times affect both the NHS and the US healthcare systems similarly, indicating a shared issue.",
+        "topic": 24,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What are the main arguments against the current US healthcare system?",
+        "input": "",
+        "output": "The US system is overly expensive and fails to provide equitable coverage compared to single-payer systems.",
+        "topic": 24,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "How would transitioning to a single-payer system affect jobs in the insurance industry?",
+        "input": "",
+        "output": "Job losses would be significant, but some could transition to roles in administering new public programs.",
+        "topic": 24,
+        "split": "train",
+        "split_by_topic": "test"
+    },
+    {
+        "instruction": "What is the general sentiment about U.S. aid to Israel?",
+        "input": "",
+        "output": "It is a point of contention with differing views from liberals and conservatives.",
+        "topic": 34,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do people view the Israeli-Palestinian conflict in terms of historical claims to land?",
+        "input": "",
+        "output": "It depends on legal and historical interpretations, often seen as complicated and nuanced.",
+        "topic": 34,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is the perspective on Hamas within the context of the Israeli-Palestinian conflict?",
+        "input": "",
+        "output": "Generally seen as a terrorist organization with complex motivations.",
+        "topic": 34,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the general opinions on the effectiveness of renewable energy sources like wind and solar?",
+        "input": "",
+        "output": "Renewables are essential but need time to develop, and nuclear should be part of the plan.",
+        "topic": 1,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members from each subreddit feel about government intervention in the energy sector?",
+        "input": "",
+        "output": "Government investment is crucial for long-term potential in green energy and national security.",
+        "topic": 1,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the views on nuclear energy as a part of the energy mix?",
+        "input": "",
+        "output": "Nuclear is efficient, but we need to manage waste safely; it should be part of a diverse energy mix.",
+        "topic": 1,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How would raising the minimum wage impact the number of jobs available?",
+        "input": "",
+        "output": "The impact on jobs is debated; some studies show minimal negative effects, while others predict job losses.",
+        "topic": 27,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "Should the government enforce a minimum wage, or should it be determined by the market?",
+        "input": "",
+        "output": "Government enforcement is necessary to ensure a living wage and prevent exploitation.",
+        "topic": 27,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are the potential effects of automatically adjusting the minimum wage for inflation?",
+        "input": "",
+        "output": "It could help maintain purchasing power but must be carefully managed to avoid excessive inflation.",
+        "topic": 27,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What is a common critique of the current tax system in the United States?",
+        "input": "",
+        "output": "The tax system is complex, with many loopholes that allow the wealthy to pay less than their fair share.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "How do members of your community feel about taxing capital gains as ordinary income?",
+        "input": "",
+        "output": "It\u2019s a viable option if done correctly to avoid loopholes and ensure the wealthy pay their fair share.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    },
+    {
+        "instruction": "What are some proposed alternatives to the current income tax system discussed in your community?",
+        "input": "",
+        "output": "Proposals include a VAT with prebates or a more progressive tax system with fewer loopholes.",
+        "topic": 26,
+        "split": "train",
+        "split_by_topic": "train"
+    }
+]
